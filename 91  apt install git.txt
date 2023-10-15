@@ -1,0 +1,8 @@
+91  apt install git
+   92  git clone https://github.com/atingupta2005/java-servlet-hello
+   93  cd java-servlet-hello/
+   96  apt install maven
+   97  mvn clean install
+   98  mvn tomcat7:run
+jenkins :
+http://vmubuntu.eastus2.cloudapp.azure.com:8080/
